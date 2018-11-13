@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gostores/require"
+	"github.com/govenue/require"
 )
 
 func TestCachableStatusCode(t *testing.T) {

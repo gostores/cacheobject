@@ -5,7 +5,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/gostores/require"
+	"github.com/govenue/require"
 )
 
 func TestMaxAge(t *testing.T) {
